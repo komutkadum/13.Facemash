@@ -1,9 +1,5 @@
 # FACEMASH - BUILT IN REACT
 
-demo - 
-![](screen-capture.gif)
-
-
 ## Features
 
 - A replica of facemash original version with some extra styling
@@ -61,4 +57,8 @@ const calculateRating = (winner)=>{
     }
   }
  ```
+
+### © [kadumkomut](https://kadmon47.github.io/kadumkomut/)
+
+# Happy Coding
 
