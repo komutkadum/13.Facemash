@@ -1,5 +1,14 @@
 # FACEMASH - BUILT IN REACT
 
+## Note
+
+- when you want to run the code in your machine, make sure to only open the react code in code editor
+- run the command
+  ```
+  npm install
+  ```
+- move the images folder inside the public folder, else it wont run.
+
 ## Features
 
 - A replica of facemash original version with some extra styling
