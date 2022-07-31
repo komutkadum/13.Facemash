@@ -1,14 +1,5 @@
 # FACEMASH - BUILT IN REACT
 
-## Note
-
-- when you want to run the code in your machine, make sure to only open the react code in code editor
-- run the command
-  ```
-  npm install
-  ```
-- move the images folder inside the public folder, else it wont run.
-
 ## Features
 
 - A replica of facemash original version with some extra styling
@@ -28,7 +19,12 @@ Now that i grasp of how the flow would work, Its implementable in database with 
 
 ### How to run
 
-Just run  -  npm start
+- when you want to run the code in your machine, make sure to only open the react code in code editor
+- run the command
+  ```
+  npm install
+  ```
+- move the images folder inside the public folder, else it wont run.
 
 There is no depency or extra library involved.
 
